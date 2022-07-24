@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Kamyarb
-- 👀 I’m interested in Machine learning algorithms,neuroscience and computer vision applications specially MOT(Multi object tracking)
+- 👀 I’m interested in Machine learning algorithms DNNs and the math behind them
+want to know more about neuroscience and computer vision applications specially MOT(Multi object tracking)
+also want to inspired by brain's behavior and implementing the functions in computer.
 - 🌱 I’m currently learning Reinforcement learning 
 - 📫 How to reach me kamibagha@gmail.com , twitter: https://twitter.com/kamyarz
   Linkedin:https://www.linkedin.com/in/kamyarbagha/
